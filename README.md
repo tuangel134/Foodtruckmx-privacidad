@@ -4,4 +4,4 @@ Página oficial de política de privacidad para la aplicación StockPro MX.
 
 ## Enlace
 
-https://tuangel134.github.io/Foodtruckmx-privacidad/
+https://tuangel134.github.io/foodtruckmx-privacidad/
