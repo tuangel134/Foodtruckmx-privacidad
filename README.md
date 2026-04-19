@@ -1,4 +1,4 @@
-# StockPro MX - Política de Privacidad
+# Food truck MX - Política de Privacidad
 
 Página oficial de política de privacidad para la aplicación StockPro MX.
 
